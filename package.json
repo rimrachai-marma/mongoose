@@ -1,0 +1,20 @@
+{
+  "name": "mongodb_and_mongoose",
+  "version": "1.0.0",
+  "description": "learn and practice mongodb and mongoose.",
+  "main": "script.js",
+  "scripts": {
+    "dev": "nodemon script.js"
+  },
+  "author": "Rimrachai Marma",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.2.2",
+    "validator": "^13.7.0"
+  }
+}
